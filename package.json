@@ -1,0 +1,14 @@
+{
+  "name": "info-finance-theme-kit",
+  "version": "0.1.0",
+  "description": "UI components and themes for prediction market frontends",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
